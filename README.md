@@ -1,2 +1,11 @@
-# prodigy_wd_02
-🌤️ Weather App  A simple and responsive Weather App built using HTML, CSS, and JavaScript. It allows users to search for any city and displays real-time weather data including temperature, weather condition, humidity, and wind speed using the OpenWeatherMap API.  
+A simple and elegant Stopwatch web app built using HTML, CSS, and JavaScript. This project allows users to start, stop, and reset time with millisecond precision. Perfect for learning basic DOM manipulation and event handling in JavaScript.
+
+🔧 Features:
+
+Start, Stop, and Reset functionality
+
+Real-time time display (HH:MM:SS:MS)
+
+Clean and responsive user interface
+
+Lightweight and beginner-friendly codebase
